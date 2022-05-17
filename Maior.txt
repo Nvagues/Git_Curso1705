@@ -3,7 +3,7 @@
 var a = 2;
 var b = 22;
 
-if( a > b) 
+if( a < b) 
 {
 alert(a);
 }
